@@ -16,7 +16,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```bash
-$ python main.py
+$ python ideal.py
 ```
 
 ## About
@@ -25,4 +25,4 @@ As part of my current obsession with the Thai language, I decided to create some
 
 As such, [thaiping](https://github.com/a-stint/thaiping) was created with the aim of helping individuals get comfortable with the Thai keyboard. While it does not directly impact any of the 4 areas mentioned above, it seeks to aid the _writing_ skill or _output_ ability through indirect means.
 
-My projects to improve the other areas include [fukhot](https://github.com/a-stint/fukhot)(WIP)
+My other Thai language projects include [fukhot](https://github.com/a-stint/fukhot) (WIP)
